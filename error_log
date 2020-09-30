@@ -1,0 +1,12 @@
+[15-Apr-2019 09:21:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wxit/public_html/furniture/application/models/Homemodel.php on line 303
+[15-Apr-2019 12:35:20 Etc/GMT] PHP Fatal error:  Cannot redeclare Checkout::randomstring() in /home/wxit/public_html/furniture/application/controllers/Checkout.php on line 122
+[15-Apr-2019 13:47:32 Etc/GMT] PHP Fatal error:  Call to a member function array() on null in /home/wxit/public_html/furniture/application/models/Homemodel.php on line 600
+[15-Apr-2019 21:03:04 Etc/GMT] PHP Fatal error:  Call to undefined method Adminoperation::order_by() in /home/wxit/public_html/furniture/application/models/Adminoperation.php on line 687
+[17-Apr-2019 05:18:18 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::return_array() in /home/wxit/public_html/furniture/application/models/Adminoperation.php on line 713
+[17-Apr-2019 05:26:32 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::whree() in /home/wxit/public_html/furniture/application/models/Adminoperation.php on line 714
+[17-Apr-2019 07:29:14 Etc/GMT] PHP Fatal error:  Call to undefined function bqase_url() in /home/wxit/public_html/furniture/application/views/home/myorder.php on line 21
+[17-Apr-2019 10:01:21 Etc/GMT] PHP Fatal error:  Call to undefined function update() in /home/wxit/public_html/furniture/application/models/Homemodel.php on line 697
+[30-Apr-2019 08:05:09 Etc/GMT] PHP Fatal error:  Cannot redeclare Adminoperation::coloredit() in /home/wxit/public_html/furniture/application/models/Adminoperation.php on line 779
+[30-Apr-2019 10:22:06 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 264765440 bytes) in /home/wxit/public_html/furniture/application/views/home/product.php on line 63
+[30-Apr-2019 10:22:15 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 264765440 bytes) in /home/wxit/public_html/furniture/application/views/home/product.php on line 63
+[12-Jun-2019 11:14:21 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'https://www.alessafurn.com/mailer/class.phpmailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alessafurn/public_html/application/controllers/Home.php on line 598
